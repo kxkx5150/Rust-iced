@@ -1,4 +1,4 @@
-# Rust-iced-VSCode
+# Rust-iced
  Rust VSCode Template
 
 <br><br><br>
